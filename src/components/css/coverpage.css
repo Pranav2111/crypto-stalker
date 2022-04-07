@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500;700&family=Qwitcher+Grypen:wght@700&display=swap');
+
+.cover {
+    background-image: url("/Users/pranavpatil/p/crypto-stalker/public/cover.jpg");
+    background-size: cover;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    
+}
+
+.container {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25;
+}
+
+.tagline{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tagline1 {
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 5vw;
+    color: rgb(191, 191, 191);
+}
+.tagline2
+{
+    font-weight: bold;
+    font-size: 2vw;
+    color: rgb(214, 214, 214);
+}
+
+.slider_cont
+{
+    background-color: rgba(215, 215, 215, 0.4);
+  -webkit-backdrop-filter: blur(0px);
+  backdrop-filter: blur(5px);
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: none;
+  
+}

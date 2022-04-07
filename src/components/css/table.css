@@ -1,0 +1,43 @@
+.heading
+{
+    margin-top: 30px;
+    font-weight: 800;
+}
+.table_container
+{
+    text-align: center;
+    margin: 18px;
+    
+}
+#search_box
+{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#table
+{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+#row_img
+{
+    width: 3vw;
+}
+#crypto_symbol
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.center 
+{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
